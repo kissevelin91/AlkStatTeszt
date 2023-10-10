@@ -18,3 +18,18 @@ search()
 args(mean)
 ## Példa futtatása
 example(mean)
+
+## Objektum és létrehozásuk
+x <- c(1,2,3)
+x <- c(0:10, 50)
+a <- 1
+## Működik az egyenlőség jel is
+a = 1
+assign("a", 1)
+## Kettőspont operátor
+0:10
+## A létrehozott objektum tartalma a nevének berásával lekérhető
+a
+x
+mean
+
