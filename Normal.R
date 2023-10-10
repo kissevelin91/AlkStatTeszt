@@ -6,3 +6,10 @@ rnorm(10)
 rnorm(10, mean = 7)
 rnorm(10, 7)
 rnorm(mean = 7, n = 10)
+## A szórás explicit megadása
+rnorm(10, 7, 1)
+rnorm(n = 10, mean = 7, sd = 1)
+## Csak a szórás vátloztatása
+rnorm(15, 0, 2)
+rnorm(n = 15, mean = 0, sd = 2)
+rnorm(15, sd = 2)
