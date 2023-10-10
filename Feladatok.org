@@ -2,3 +2,15 @@
    Pull request indítás
 2. Válasszon egy függvényt a feltelepített csomagokból és
    tanulmányozza a kézikönyvét, futtasa a példákat és dokumentálja.
+   Lehet érdeklődési körünkbe tartozó csomagból is.
+3. Hozzon létre semleges pH-t mutató, normális eloszlást követő
+   adatsorokat. Legyen egy kis és egy nagyobb mintát tartalmazó
+   objetuma. Elemezze az adatokat az órán megnézett leíró
+   statisztikákkal, grafikus ábrákkal.
+   Adja meg N(0, 1) formában.
+   Ki mit tekint semlegesnek, maga definiálja!
+
+10. Saját feladat, adatokból, módszertanból.
+
+Határidő a szorgalmi időszak vége. Ha nem sikerült leadni mindent, akkor
+aláírás meglesz, jegyet a vizsgaidőszakban leadott feladattal lehet szerezni.
