@@ -1,0 +1,2 @@
+1. GitHub Forkolás és keresztnév hozzáadása a listához
+   Pull request indítás
