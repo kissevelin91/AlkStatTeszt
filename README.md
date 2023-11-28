@@ -4,7 +4,7 @@ Felvidéki
 Halasi
 Illés
 Janzsó
-Kiss
+Kiss Evelin
 Kutschi
 Őrsi
 Sipos
